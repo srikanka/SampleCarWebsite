@@ -1,0 +1,43 @@
+
+.jumbotron{
+    padding:0px 3px;
+
+    min-height: 600px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+#astonBg{
+    background-image: url(../img/aston.jpg);
+    background-size: cover;
+    height: 100%;
+
+}
+
+
+#CardDeckInterior{
+    background-color: white;
+}
+
+#interiorText{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#carouselExampleControls{
+
+}
+
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+    display: block;
+}
+
+
+
+
